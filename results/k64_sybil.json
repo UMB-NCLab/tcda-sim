@@ -1,0 +1,49 @@
+{
+ "Np": 2000,
+ "rows": [
+  {
+   "sybils_per_good": 0,
+   "peerdas_C8": 0.0,
+   "peerdas_C16": 0.0
+  },
+  {
+   "sybils_per_good": 0.1,
+   "peerdas_C8": 0.020279702907375803,
+   "peerdas_C16": 0.00038965004044071345
+  },
+  {
+   "sybils_per_good": 0.25,
+   "peerdas_C8": 0.16770515652289317,
+   "peerdas_C16": 0.027944377915464523
+  },
+  {
+   "sybils_per_good": 0.5,
+   "peerdas_C8": 0.389831095017675,
+   "peerdas_C16": 0.15178808728749715
+  },
+  {
+   "sybils_per_good": 1,
+   "peerdas_C8": 0.6157672543990066,
+   "peerdas_C16": 0.379085368985887
+  },
+  {
+   "sybils_per_good": 2,
+   "peerdas_C8": 0.7818147522958221,
+   "peerdas_C16": 0.6112073738852404
+  },
+  {
+   "sybils_per_good": 5,
+   "peerdas_C8": 0.9054044076970603,
+   "peerdas_C16": 0.8197523444170504
+  },
+  {
+   "sybils_per_good": 10,
+   "peerdas_C8": 0.9513790861425498,
+   "peerdas_C16": 0.9051209365268721
+  }
+ ],
+ "tcda": 0.14224494549161387,
+ "rda": 0.14224494542522986,
+ "crossing_C8": 0.3325,
+ "crossing_C16": 0.6925
+}
